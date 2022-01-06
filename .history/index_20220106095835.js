@@ -69,7 +69,7 @@ run().catch(console.dir);
 
 
 app.get('/', (req, res)=>{
-    res.send('Running the post genius, Heroku');
+    res.send('Running the post genius, Hero');
 });    
 
 app.listen(port, ()=>{
