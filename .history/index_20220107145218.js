@@ -73,5 +73,5 @@ app.get('/', (req, res)=>{
 });    
 
 app.listen(port, ()=>{
-  console.log('Genius Car Mechanics Services-2 target', port);
+  console.log('Genius Car Mechanics Services', port);
 })
